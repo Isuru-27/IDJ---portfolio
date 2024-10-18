@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/IDJ---Portfolio/static/css/main.58462fbc.css",
-    "main.js": "/IDJ---Portfolio/static/js/main.eaccd3c4.js",
-    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.png": "/IDJ---Portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8c1b9ca19030f7135550.png",
-    "static/media/u-said-it-v13-1167.mp3": "/IDJ---Portfolio/static/media/u-said-it-v13-1167.53df7b24531b0f6186c5.mp3",
-    "static/media/profile-img.png": "/IDJ---Portfolio/static/media/profile-img.a65b822625cd2aa26279.png",
-    "static/media/spaceman.png": "/IDJ---Portfolio/static/media/spaceman.97e3543a2aabb86e5ff3.png",
-    "index.html": "/IDJ---Portfolio/index.html",
-    "main.58462fbc.css.map": "/IDJ---Portfolio/static/css/main.58462fbc.css.map",
-    "main.eaccd3c4.js.map": "/IDJ---Portfolio/static/js/main.eaccd3c4.js.map"
+    "main.css": "/IDJ---portfolio/static/css/main.58462fbc.css",
+    "main.js": "/IDJ---portfolio/static/js/main.1ea4aaa0.js",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.png": "/IDJ---portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8c1b9ca19030f7135550.png",
+    "static/media/u-said-it-v13-1167.mp3": "/IDJ---portfolio/static/media/u-said-it-v13-1167.53df7b24531b0f6186c5.mp3",
+    "static/media/profile-img.png": "/IDJ---portfolio/static/media/profile-img.a65b822625cd2aa26279.png",
+    "static/media/spaceman.png": "/IDJ---portfolio/static/media/spaceman.97e3543a2aabb86e5ff3.png",
+    "index.html": "/IDJ---portfolio/index.html",
+    "main.58462fbc.css.map": "/IDJ---portfolio/static/css/main.58462fbc.css.map",
+    "main.1ea4aaa0.js.map": "/IDJ---portfolio/static/js/main.1ea4aaa0.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.eaccd3c4.js"
+    "static/js/main.1ea4aaa0.js"
   ]
 }
