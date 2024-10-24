@@ -212,7 +212,7 @@ const Main = () => {
             </motion.h2>
           </SKILLS>
         </BottomBar>
-        <DownloadButton href="https://drive.google.com/file/d/1cIqpzrbBlA7tZR2DCDn_9Ted_8kC2XaK/view?usp=sharing" download>
+        <DownloadButton href="https://drive.google.com/file/d/129wfvPQERE26kPfplDy4wzrT83grp70w/view?usp=sharing" download>
           Download CV
         </DownloadButton>
       </Container>
